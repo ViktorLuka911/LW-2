@@ -1,0 +1,116 @@
+2
+
+1
+John
+Doe
+Michael
+2000-02-20
+123 Main St, Springfield, IL, 62701
++1-555-123-4567
+Computer Science
+3
+CS301
+
+2
+Jane
+Smith
+Elizabeth
+1999-05-30
+456 Oak Ave, Chicago, IL, 60614
++1-555-234-5678
+Computer Science
+3
+CS301
+
+Computer Science
+
+1999
+
+CS301
+
+------------------------------------------
+
+3
+
+1
+Oliver
+Martinez
+Thomas
+1999-09-10
+789 Cedar Ln, New York, NY, 10001
++1-555-678-9012
+Architecture
+3
+ARCH301
+
+2
+Sophia
+Wilson
+Grace
+2000-04-17
+123 Oak St, Los Angeles, CA, 90001
++1-555-789-0123
+Education
+2
+EDU202
+
+3
+Liam
+Anderson
+Henry
+2001-03-25
+456 Birch Rd, San Francisco, CA, 94101
++1-555-890-1234
+Education
+2
+EDU202
+
+Education
+
+1999
+
+EDU202
+
+------------------------------------------
+
+4
+
+1
+Ethan
+Michael
+159 Cedar Ln, Chicago, IL, 60614
++1-555-456-7890
+Marketing
+MARK202
+
+2
+Charlotte
+Alice
+246 Oak St, Dallas, TX, 75201
++1-555-567-8901
+International Relations
+IR301
+
+3
+Aiden
+Joshua
+369 Birch Rd, Houston, TX, 77001
++1-555-678-9012
+International Relations
+IR301
+
+4
+Amelia
+Sophie
+432 Pine St, San Diego, CA, 92101
++1-555-789-0123
+Marketing
+MARK202
+
+Marketing
+
+1998
+
+IR301
+
+------------------------------------------
